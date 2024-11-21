@@ -1,0 +1,12 @@
+
+MultipLexer:
+https://www.electronics-tutorials.ws/combination/comb_2.html
+
+Full adder
+https://www.electronicshub.org/half-adder-and-full-adder-circuits/
+
+AND gate
+https://www.electronics-tutorials.ws/logic/logic_5.html
+
+4 input and gate schematic
+http://www.eeherald.com/section/design-guide/logic-design.html
